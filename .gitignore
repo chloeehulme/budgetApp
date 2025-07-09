@@ -1,0 +1,64 @@
+# === FRONTEND (React) ===
+
+# Node modules
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# Local environment variables
+frontend/.env
+frontend/.env.local
+
+# System/IDE files
+frontend/.DS_Store
+frontend/.vscode/
+frontend/.idea/
+
+
+# === BACKEND (C# / .NET) ===
+
+# Build results
+backend/bin/
+backend/obj/
+
+# User-specific files
+backend/*.user
+backend/*.suo
+backend/*.userosscache
+backend/*.sln.docstates
+
+# Local storage (e.g., JSON budget files)
+backend/budget.json
+
+# my data lmao
+backend/2025-06-15.csv
+
+# Secrets
+backend/secrets.json
+
+# IDE config
+backend/.vscode/
+backend/.idea/
+backend/_ReSharper*/
+backend/*.DotSettings.user
+
+# ASP.NET Core wwwroot (optional)
+backend/wwwroot/lib/
+
+# Logs
+backend/*.log
+
+
+# === GLOBAL ===
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor config
+.vscode/
+.idea/
