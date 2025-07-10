@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "b5be7a09-e38c-41d0-aeea-35e964a10a10",
+    "Category": "groceries",
+    "Subcategory": "needs",
+    "Amount": 250
+  },
+  {
+    "Id": "022773cb-1171-4edd-93a8-2a5f736a461c",
+    "Category": "rent",
+    "Subcategory": "needs",
+    "Amount": 1305
+  }
+]

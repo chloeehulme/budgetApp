@@ -17,38 +17,38 @@ frontend/.vscode/
 frontend/.idea/
 
 
-# === backendapi (C# / .NET) ===
+# === backendApi (C# / .NET) ===
 
 # Build results
-backendapi/bin/
-backendapi/obj/
+backendApi/bin/
+backendApi/obj/
 
 # User-specific files
-backendapi/*.user
-backendapi/*.suo
-backendapi/*.userosscache
-backendapi/*.sln.docstates
+backendApi/*.user
+backendApi/*.suo
+backendApi/*.userosscache
+backendApi/*.sln.docstates
 
 # Local storage (e.g., JSON budget files)
-backendapi/budget.json
+backendApi/budget.json
 
 # my data lmao
-backendapi/2025-06-15.csv
+backendApi/2025-06-15.csv
 
 # Secrets
-backendapi/secrets.json
+backendApi/secrets.json
 
 # IDE config
-backendapi/.vscode/
-backendapi/.idea/
-backendapi/_ReSharper*/
-backendapi/*.DotSettings.user
+backendApi/.vscode/
+backendApi/.idea/
+backendApi/_ReSharper*/
+backendApi/*.DotSettings.user
 
 # ASP.NET Core wwwroot (optional)
-backendapi/wwwroot/lib/
+backendApi/wwwroot/lib/
 
 # Logs
-backendapi/*.log
+backendApi/*.log
 
 
 # === GLOBAL ===

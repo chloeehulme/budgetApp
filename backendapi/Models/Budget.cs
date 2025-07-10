@@ -1,5 +1,8 @@
-public class Budget
+namespace backendApi.Models
 {
-    public decimal MonthlySalary { get; set; }
-    public List<BudgetItem> Items { get; set; } = new();
+    public class Budget
+    {
+        public decimal MonthlySalary { get; set; }
+        public List<BudgetItem> Items { get; set; } = new();
+    }
 }
